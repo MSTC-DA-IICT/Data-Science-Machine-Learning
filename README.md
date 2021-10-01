@@ -20,5 +20,5 @@ plt.imshow(train_set_x_orig[index])
   
 
 
-![image](https://drive.google.com/file/d/1U37W40Qw-mzcGr7mnIvadVvRZuA0lbqA/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1U37W40Qw-mzcGr7mnIvadVvRZuA0lbqA)
 This should be recognised as 5 by the model. The images are 64x64 pixels.
